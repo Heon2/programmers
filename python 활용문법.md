@@ -1,4 +1,14 @@
-## zip과 startswith
+## - list 매소드
+
+![image-20220107155121590](python%20%ED%99%9C%EC%9A%A9%EB%AC%B8%EB%B2%95.assets/image-20220107155121590.png)
+
+
+
+![image-20220107170310041](python%20%ED%99%9C%EC%9A%A9%EB%AC%B8%EB%B2%95.assets/image-20220107170310041.png)
+
+
+
+## - zip과 startswith
 
 **- zip**
 
