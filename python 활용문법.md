@@ -46,3 +46,13 @@ STRING.endswith('찾는 문자')
 STRING.endswith('찾는 문자', 시작 인덱스, 끝 인덱스)
 ```
 
+# enumerate
+
+리스트의 순서와 값을 둘 다 사용하고 싶을때
+
+```
+names = ['철수', '영희', '영수']
+for i, name in enumerate(names):
+  print('{}번: {}'.format(i + 1, name))
+```
+
