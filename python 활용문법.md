@@ -38,7 +38,7 @@ STRING.startswith('찾는 문자', 시작 인덱스)
 
 특정 문자로 끝나는 문자열을 찾을 때 사용한다.
 
-나머지는 startswith와 동일하다
+나머지는 startswith와 동일하다.
 
 ```
 STRING.endswith('찾는 문자')
