@@ -22,7 +22,7 @@ if 길이가 같지 않다면, 같을 때까지만 묶어준다.
 
 특정 문자로 시작하는 문자열을 찾을 때 사용한다.
 
-반환 값의 자료형은 boolean
+반환 값의 자료형은 boolean.
 
 ```
 STRING.startswith('찾는 문자')
@@ -56,3 +56,7 @@ for i, name in enumerate(names):
   print('{}번: {}'.format(i + 1, name))
 ```
 
+# map
+map은 리스트의 요소를 지정된 함수로 처리해주는 함수입니다(map은 원본 리스트를 변경하지 않고 새 리스트를 생성합니다).
+
+list(map(함수, 리스트))tuple(map(함수, 튜플))
